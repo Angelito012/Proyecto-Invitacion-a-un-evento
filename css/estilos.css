@@ -1,0 +1,66 @@
+body{
+                background-color:rgb(247, 22, 48);
+            }
+               ul{
+                 font-family:Helvetica;
+                 font-size:12px;
+                 text-align:justify;
+                 color:black;
+                 text-shadow: 4px 4px 6px red;
+
+            }
+            #parte1{
+                text-align:center;
+                border:5px outset rgb(244, 252, 0);
+                margin-bottom:8px;
+                padding:2px;
+
+            }
+             #texto{
+                color:rgb(26, 26, 25);
+                font-style:oblique;
+                font-size:large;
+                text-align:center;
+             }
+             #parte2{
+                float:left;
+                width:50%;
+                line-height:2;
+                background-color:rgb(255, 228, 23);
+                border:2px inset rgb(201, 206, 240);
+                padding:2px;
+             }
+                    #parte3{
+             color:rgb(247, 247, 228);
+                font-style:oblique;
+                font-size:large;
+                text-align:center;
+                
+            
+               
+             }
+            #gloria{
+                color:rgb(13, 13, 13);
+                font-style:oblique;
+                font-size:large;
+                text-align:center;
+             
+            }
+               #juego{
+                color:rgb(13, 13, 13);
+                font-style:oblique;
+             
+            }
+               #gloria{
+                color:rgb(13, 13, 13);
+                font-style:oblique;
+                font-size:large;
+                text-align:center;
+             
+            }
+               button{
+
+                display:block;
+                margin: auto;
+                margin-bottom:5px;
+               }
